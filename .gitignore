@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+archive.zip
+bidirection_lstm_model.pth
+lstm_model.pth
+bert_uncased/
+IMDB Dataset.csv
