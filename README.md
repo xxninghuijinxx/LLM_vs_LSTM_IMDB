@@ -57,17 +57,17 @@ To evaluate and compare deep learning models on their ability to classify IMDB m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-
+   git clone git@github.com:xxninghuijinxx/LLM_vs_LSTM_IMDB.git
+   
 Install dependencies:
 
 
 pip install -r requirements.txt
-Launch Jupyter Notebook and open the .ipynb file:
 
+Launch Jupyter Notebook and open the .ipynb file: jupyter notebook
 
-jupyter notebook
 📊 Results
+
 📌 All models were trained and evaluated using the same train-test split
 
 🧪 BERT outperformed RNN-based models in accuracy and F1-score
